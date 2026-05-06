@@ -1,0 +1,35 @@
+GRAPH ANALYSIS REPORT
+======================================================================
+
+Source File: data/graph1.txt
+Nodes: 10
+Edges: 39
+
+WEAKLY CONNECTED COMPONENTS
+----------------------------------------------------------------------
+Total Components: 1
+Component 1: Size = 10, Nodes = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+STRONGLY CONNECTED COMPONENTS
+----------------------------------------------------------------------
+Total SCCs: 1
+SCC 1: Size = 10, Nodes = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+3-NODE GRAPHLET ANALYSIS (GRAAL Style)
+----------------------------------------------------------------------
+3-node Paths (Wedges) : 36
+Triangles            : 78
+Total 3-Graphlets    : 114
+
+ORBIT COUNTS (3-Node Graphlets):
+  Orbit 0 - Wedge Endpoints     : 72
+  Orbit 1 - Wedge Centers       : 72
+  Orbit 2 - Triangle Nodes      : 116
+  Total Orbit Instances         : 260
+
+GRAPH VISUALIZATION
+----------------------------------------------------------------------
+Saved Visualization: results/graph1_visualization.png
+
+======================================================================
+Report generated successfully.

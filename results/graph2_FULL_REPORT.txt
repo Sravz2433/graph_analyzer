@@ -1,0 +1,145 @@
+GRAPH ANALYSIS REPORT
+======================================================================
+
+Source File: data/graph2.txt
+Nodes: 100
+Edges: 99
+
+WEAKLY CONNECTED COMPONENTS
+----------------------------------------------------------------------
+Total Components: 12
+Component 1: Size = 83, Nodes = [0, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 55, 56, 58, 59, 61, 62, 64, 65, 66, 67, 68, 69, 70, 73, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 91, 92, 93, 94, 95, 97, 98, 99]
+Component 2: Size = 3, Nodes = [1, 34, 71]
+Component 3: Size = 4, Nodes = [6, 57, 89, 96]
+Component 4: Size = 1, Nodes = [9]
+Component 5: Size = 1, Nodes = [22]
+Component 6: Size = 2, Nodes = [25, 43]
+Component 7: Size = 1, Nodes = [48]
+Component 8: Size = 1, Nodes = [60]
+Component 9: Size = 1, Nodes = [63]
+Component 10: Size = 1, Nodes = [72]
+Component 11: Size = 1, Nodes = [74]
+Component 12: Size = 1, Nodes = [90]
+
+STRONGLY CONNECTED COMPONENTS
+----------------------------------------------------------------------
+Total SCCs: 100
+SCC 1: Size = 1, Nodes = [98]
+SCC 2: Size = 1, Nodes = [96]
+SCC 3: Size = 1, Nodes = [93]
+SCC 4: Size = 1, Nodes = [90]
+SCC 5: Size = 1, Nodes = [89]
+SCC 6: Size = 1, Nodes = [85]
+SCC 7: Size = 1, Nodes = [99]
+SCC 8: Size = 1, Nodes = [88]
+SCC 9: Size = 1, Nodes = [80]
+SCC 10: Size = 1, Nodes = [83]
+SCC 11: Size = 1, Nodes = [79]
+SCC 12: Size = 1, Nodes = [77]
+SCC 13: Size = 1, Nodes = [74]
+SCC 14: Size = 1, Nodes = [72]
+SCC 15: Size = 1, Nodes = [68]
+SCC 16: Size = 1, Nodes = [67]
+SCC 17: Size = 1, Nodes = [63]
+SCC 18: Size = 1, Nodes = [61]
+SCC 19: Size = 1, Nodes = [60]
+SCC 20: Size = 1, Nodes = [59]
+SCC 21: Size = 1, Nodes = [73]
+SCC 22: Size = 1, Nodes = [75]
+SCC 23: Size = 1, Nodes = [58]
+SCC 24: Size = 1, Nodes = [57]
+SCC 25: Size = 1, Nodes = [54]
+SCC 26: Size = 1, Nodes = [51]
+SCC 27: Size = 1, Nodes = [52]
+SCC 28: Size = 1, Nodes = [49]
+SCC 29: Size = 1, Nodes = [48]
+SCC 30: Size = 1, Nodes = [44]
+SCC 31: Size = 1, Nodes = [43]
+SCC 32: Size = 1, Nodes = [42]
+SCC 33: Size = 1, Nodes = [87]
+SCC 34: Size = 1, Nodes = [41]
+SCC 35: Size = 1, Nodes = [84]
+SCC 36: Size = 1, Nodes = [69]
+SCC 37: Size = 1, Nodes = [40]
+SCC 38: Size = 1, Nodes = [37]
+SCC 39: Size = 1, Nodes = [36]
+SCC 40: Size = 1, Nodes = [66]
+SCC 41: Size = 1, Nodes = [62]
+SCC 42: Size = 1, Nodes = [35]
+SCC 43: Size = 1, Nodes = [47]
+SCC 44: Size = 1, Nodes = [32]
+SCC 45: Size = 1, Nodes = [82]
+SCC 46: Size = 1, Nodes = [91]
+SCC 47: Size = 1, Nodes = [50]
+SCC 48: Size = 1, Nodes = [78]
+SCC 49: Size = 1, Nodes = [31]
+SCC 50: Size = 1, Nodes = [29]
+SCC 51: Size = 1, Nodes = [28]
+SCC 52: Size = 1, Nodes = [25]
+SCC 53: Size = 1, Nodes = [23]
+SCC 54: Size = 1, Nodes = [22]
+SCC 55: Size = 1, Nodes = [21]
+SCC 56: Size = 1, Nodes = [86]
+SCC 57: Size = 1, Nodes = [19]
+SCC 58: Size = 1, Nodes = [55]
+SCC 59: Size = 1, Nodes = [18]
+SCC 60: Size = 1, Nodes = [38]
+SCC 61: Size = 1, Nodes = [17]
+SCC 62: Size = 1, Nodes = [15]
+SCC 63: Size = 1, Nodes = [14]
+SCC 64: Size = 1, Nodes = [97]
+SCC 65: Size = 1, Nodes = [95]
+SCC 66: Size = 1, Nodes = [27]
+SCC 67: Size = 1, Nodes = [11]
+SCC 68: Size = 1, Nodes = [9]
+SCC 69: Size = 1, Nodes = [6]
+SCC 70: Size = 1, Nodes = [5]
+SCC 71: Size = 1, Nodes = [3]
+SCC 72: Size = 1, Nodes = [45]
+SCC 73: Size = 1, Nodes = [26]
+SCC 74: Size = 1, Nodes = [30]
+SCC 75: Size = 1, Nodes = [39]
+SCC 76: Size = 1, Nodes = [56]
+SCC 77: Size = 1, Nodes = [2]
+SCC 78: Size = 1, Nodes = [4]
+SCC 79: Size = 1, Nodes = [70]
+SCC 80: Size = 1, Nodes = [16]
+SCC 81: Size = 1, Nodes = [64]
+SCC 82: Size = 1, Nodes = [92]
+SCC 83: Size = 1, Nodes = [12]
+SCC 84: Size = 1, Nodes = [94]
+SCC 85: Size = 1, Nodes = [10]
+SCC 86: Size = 1, Nodes = [46]
+SCC 87: Size = 1, Nodes = [33]
+SCC 88: Size = 1, Nodes = [65]
+SCC 89: Size = 1, Nodes = [76]
+SCC 90: Size = 1, Nodes = [7]
+SCC 91: Size = 1, Nodes = [20]
+SCC 92: Size = 1, Nodes = [24]
+SCC 93: Size = 1, Nodes = [1]
+SCC 94: Size = 1, Nodes = [34]
+SCC 95: Size = 1, Nodes = [71]
+SCC 96: Size = 1, Nodes = [0]
+SCC 97: Size = 1, Nodes = [81]
+SCC 98: Size = 1, Nodes = [13]
+SCC 99: Size = 1, Nodes = [8]
+SCC 100: Size = 1, Nodes = [53]
+
+3-NODE GRAPHLET ANALYSIS (GRAAL Style)
+----------------------------------------------------------------------
+3-node Paths (Wedges) : 165
+Triangles            : 0
+Total 3-Graphlets    : 165
+
+ORBIT COUNTS (3-Node Graphlets):
+  Orbit 0 - Wedge Endpoints     : 330
+  Orbit 1 - Wedge Centers       : 330
+  Orbit 2 - Triangle Nodes      : 0
+  Total Orbit Instances         : 660
+
+GRAPH VISUALIZATION
+----------------------------------------------------------------------
+Saved Visualization: results/graph2_visualization.png
+
+======================================================================
+Report generated successfully.
