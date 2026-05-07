@@ -11,3 +11,5 @@ src/__pycache__/connected_components.cpython-311.pyc
 src/__pycache__/strongly_connected_components.cpython-311.pyc
 src/__pycache__/graph_reader.cpython-311.pyc
 src/__pycache__/generate_report.cpython-311.pyc
+src/__pycache__/graphlets.cpython-311.pyc
+/src/__pycache__
