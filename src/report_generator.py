@@ -20,7 +20,23 @@ def generate_report(
         f.write(f"Source File: {file_path}\n")
         f.write(f"Nodes: {num_nodes}\n")
         f.write(f"Edges: {num_edges}\n\n")
+        # ================= Summary Metrics =================
+        density = 0
+        if num_nodes > 1:
+            density = num_edges / (num_nodes * (num_nodes - 1))
 
+        avg_degree = 0
+        if num_nodes > 0:
+            avg_degree = (2 * num_edges) / num_nodes
+
+        f.write("SUMMARY METRICS\n")
+        f.write("-" * 70 + "\n")
+        f.write(f"Number of Nodes          : {num_nodes}\n")
+        f.write(f"Number of Edges          : {num_edges}\n")
+        f.write(f"Graph Density            : {density:.4f}\n")
+        f.write(f"Average Degree           : {avg_degree:.4f}\n")
+        f.write(f"Weakly Connected Components : {len(weak_components)}\n")
+        f.write(f"Strongly Connected Components : {len(scc_list)}\n\n")
         # Weakly Connected Components
         f.write("WEAKLY CONNECTED COMPONENTS\n")
         f.write("-" * 70 + "\n")
