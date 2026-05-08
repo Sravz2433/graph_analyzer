@@ -1,0 +1,6 @@
+Graph,Nodes,Edges,Density,Weakly Connected Components,Strongly Connected Components,Triangles,3-Node Paths
+n10,10,39,0.8667,1,1,78,36
+n100,100,99,0.02,12,100,0,165
+n1000,1000,1994,0.004,17,360,13,7765
+n10000,10000,32983,0.0007,12,801,43,217116
+s1,573,1202,0.0073,6,530,409,5588
